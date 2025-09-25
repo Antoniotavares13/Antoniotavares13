@@ -11,14 +11,14 @@ Busco oportunidades que me permitam mergulhar em projetos reais, aprender com pe
 Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, para melhorar e para fazer acontecer.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Antoniotavares13?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Antoniotavares13?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Antoniotavares13?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
