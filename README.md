@@ -101,7 +101,7 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
     title="C++"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-original.svg" />      
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/colusplus-original.svg" />      
 <br/>
 <br/>
 
