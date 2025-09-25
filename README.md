@@ -8,7 +8,7 @@ Acredito que o conhecimento se constrói na prática, na colaboração e no dese
 
 Estou em busca de oportunidades que me permitam mergulhar em projetos reais, aprender com pessoas incríveis e colocar em prática tudo aquilo que venho estudando. Quero fazer parte de equipes que acreditam no poder da tecnologia para transformar realidades e que valorizam o desenvolvimento humano tanto quanto o técnico.
 
-Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, para melhorar e para fazer acontecer.
+Saiba que estou pronto: para aprender, para errar, para melhorar e para fazer acontecer.
 
 <p align="left">
     <a href="https://github.com/Antoniotavares13?tab=repositories&sort=stargazers">
