@@ -55,14 +55,6 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
 <img
     align="left" 
     alt="Java" 
@@ -86,6 +78,14 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img
     align="left" 
@@ -111,6 +111,7 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <br/>
 <br/>
 
