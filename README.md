@@ -57,15 +57,6 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="50px" 
