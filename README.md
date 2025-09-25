@@ -101,7 +101,17 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
     title="C++"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />      
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img
+    align="left" 
+    alt="B.D. Oracle" 
+    title="B.D. Oracle"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+/>
+          
 <br/>
 <br/>
 
