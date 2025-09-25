@@ -1,4 +1,4 @@
-# 👨‍💻 Antonio Tavares
+# 👨‍💻 Eu sou o Antonio Tavares
 # Aprendiz de Desenvolvimento de Software e Multiplataforma
 
 Sou movido por curiosidade, impulsionado por desafios e guiado pelo desejo constante de evoluir.
