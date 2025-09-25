@@ -89,8 +89,8 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
 />
 <img
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt="C Sharp" 
+    title="C Sharp"
     width="50px" 
     style="padding-right: 10px;" 
     srcsrc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
