@@ -93,9 +93,8 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
     title="C Sharp"
     width="50px" 
     style="padding-right: 10px;" 
-    srcsrc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
 />
-
 <br/>
 <br/>
 
