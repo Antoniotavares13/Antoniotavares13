@@ -103,7 +103,15 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />    
-
+<img
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+          
 <br/>
 <br/>
 
