@@ -57,14 +57,6 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="50px" 
@@ -111,7 +103,14 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />
-          
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>          
 <br/>
 <br/>
 
@@ -131,7 +130,7 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniotavares13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=all" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniotavares13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
