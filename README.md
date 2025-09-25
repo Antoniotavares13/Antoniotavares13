@@ -103,6 +103,15 @@ Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, pa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="http<i class="devicon-aarch64-plain "></i>" 
+/>
+
 <br/>
 <br/>
 
