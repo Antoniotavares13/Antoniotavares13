@@ -11,13 +11,7 @@ Busco oportunidades que me permitam mergulhar em projetos reais, aprender com pe
 Se você chegou até aqui, saiba que estou pronto: para aprender, para errar, para melhorar e para fazer acontecer.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/github/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
+
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
